@@ -12,7 +12,7 @@ https://www.stellar-app.net/es
 
 ## Legal pages on the main site
 
-- Terms of use (TÈrminos y condiciones):  
+- Terms of use (Términos y condiciones):  
   https://www.stellar-app.net/terms-of-use  
 
 - Privacy policy (PolÌtica de privacidad):  
