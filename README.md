@@ -38,3 +38,5 @@ Because StellarApp is a platform for **employment, reviews and reputation**, leg
 
 For details, always refer to the official pages on:  
 https://www.stellar-app.net
+
+For more details, visit the official platform: https://www.stellar-app.net
